@@ -10,6 +10,6 @@ Simple CLI Port Scanner built with Python.
 ## Installation
 
 ```bash
-git clone https://github.com/Nocaterate/nocatscan.git
+git clone https://github.com/Nocaterate/nocaterate-portscanner
 cd nocatscan
 pip install .
