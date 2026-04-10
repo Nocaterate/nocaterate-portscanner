@@ -1,0 +1,2 @@
+[console_scripts]
+nocatscan = nocatscan.main:main
